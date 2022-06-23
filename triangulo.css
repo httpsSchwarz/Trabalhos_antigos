@@ -1,0 +1,19 @@
+body{
+    background-color: lightseagreen;
+    color:palegreen;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.container01{
+    display: flex;
+    justify-content: center;
+    color: black;
+}

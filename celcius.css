@@ -1,0 +1,33 @@
+body{
+    background-color: lightseagreen;
+    color:palegreen;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.container01{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+/*.container0{
+    display: flex;
+    justify-content: center;
+    color: black;
+    word-spacing: 40px
+}*/
+
+p{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+}
